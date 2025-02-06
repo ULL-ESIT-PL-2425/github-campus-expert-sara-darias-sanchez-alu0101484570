@@ -11,7 +11,7 @@
 
 ## Crear equipo con nombre correcto
 
-![equipo](docs/equipo.png)
+![equipo-nombre-correcto](https://github.com/user-attachments/assets/5c1801ab-5c2b-4bfb-acdd-2a52217f30fd)
 
 ## Crear un project board kanban para este repositorio
 
